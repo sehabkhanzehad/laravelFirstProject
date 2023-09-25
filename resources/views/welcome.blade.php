@@ -41,6 +41,7 @@
                 <div class="mt-16">
 
                     <h1>Welcome to laravel.</h1>
+                    <h1>Welcome to laravel.</h1>
 
                 </div>
 
